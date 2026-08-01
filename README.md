@@ -5,5 +5,6 @@
 - Data cleaning
 - Visualization
 - Python
+- Power BI
 
 
