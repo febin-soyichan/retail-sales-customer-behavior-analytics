@@ -6,5 +6,6 @@
 - Visualization
 - Python
 - Power BI
+- colab
 
 
