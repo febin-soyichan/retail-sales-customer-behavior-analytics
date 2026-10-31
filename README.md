@@ -1,4 +1,4 @@
-# Retail Sales & Customer Behavior Analytics
+#### Retail Sales & Customer Behavior Analytics
 
 ## Project Overview
 This project analyzes retail transaction data to evaluate customer buying behavior, predict sales outcomes, and segment buyers for targeted marketing strategies. Using Python for data processing and predictive modeling, alongside Power BI for visual analytics, the solution provides actionable business insights to drive operational performance.
