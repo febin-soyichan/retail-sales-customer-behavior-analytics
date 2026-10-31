@@ -23,7 +23,7 @@ This project analyzes retail transaction data to evaluate customer buying behavi
 * **4 Types of Shoppers:** Customer segmentation grouped buyers into 4 distinct behavioral types based on purchase volume and spending habits.
 
 ### Underlying Causes (Why this is happening)
-* **Generic Marketing:** The store treats all customers the same instead of giving special offers to the highest-spending age group (ages 46–55).
+* **Generic Marketing:** The business treats all customers the same instead of giving special offers to the highest-spending age group (ages 46–55).
 * **No Reason to Return:** Low-spending customers usually buy once and leave because there are no rewards or package deals to encourage a second purchase.
 
 ### Recommended Solutions (What to do next)
